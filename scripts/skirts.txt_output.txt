@@ -1,0 +1,98 @@
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://static14.jassets.com/p/The-gud-look-Printed-Black-Skirt-3418-5533801-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/he-gud-look-Printed-Black-Skirt-1083355.html?pos=1" target="_blank">
+				<h4 class="heavy remove-bottom">Straight</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>559</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static14.jassets.com/p/New-Look-Black-Flared-Skirtblack-Pencil-1203-9722001-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/new-look-Black-Flared-Skirt-1002279.html?pos=11" target="_blank">
+				<h4 class="heavy remove-bottom">Pleated</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1295</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static13.jassets.com/p/Faballey-Black-Solid-Skirts-4689-168936-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/faballey-Black-Solid-Skirts-639861.html?pos=25" target="_blank">
+				<h4 class="heavy remove-bottom">A-Line</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1125</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static11.jassets.com/p/Faballey-Red-Printed-Skirts-1521-941734-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/faballey-Red-Printed-Skirts-437149.html?pos=30" target="_blank">
+				<h4 class="heavy remove-bottom">A-Line</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>900</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://static12.jassets.com/p/Dorothy-Perkins-Multi-Maxi-Skirt-3903-351047-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/dorothy-perkins-Multi-Maxi-Skirt-740153.html?pos=660" target="_blank">
+				<h4 class="heavy remove-bottom">A-Line, Maxi</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1166</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://img5a.flixcart.com/image/skirt/g/n/y/avsk100029-multicolor-f-avirate-32-400x400-imadvner8s7g3a9z.jpeg" alt="" />
+		<div>
+			<a href="http://www.flipkart.com/avirate-printed-women-s-a-line-skirt/p/itmdvzh6fbmzvutu?pid=SKIDVZH6UK5FAVWW&srno=b_416&ref=5eef2d5f-7a4b-428a-afdb-80acf85f65d2" target="_blank">
+				<h4 class="heavy remove-bottom">Trumpet Skirt</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1,099</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://img6a.flixcart.com/image/skirt/b/g/a/173s-blue-f-avirate-10-400x400-imadvy6q4ggxz8bv.jpeg" alt="" />
+		<div>
+			<a href="http://www.flipkart.com/avirate-printed-women-s-straight-skirt/p/itmdvyf3kqdbzfa2?pid=SKIDVYF3A7TWYRWH&srno=b_605&ref=7af313b6-cc6c-4d3a-99dc-064667eb8552" target="_blank">
+				<h4 class="heavy remove-bottom">Straight</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1,399</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://ecx.images-amazon.com/images/I/51hSryOnJML._SX342_.jpg" alt="" />
+		<div>
+			<a href="http://www.amazon.in/Closet-Label-Womens--Line-ACCOM-100368-M_White/dp/B00N3OJ2WC/ref=sr_1_2?s=apparel&ie=UTF8&qid=1422899437&sr=1-2&keywords=skirts" target="_blank">
+				<h4 class="heavy remove-bottom">A-Line</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1450</p>
+				<p>DIS <span class="WebRupee">&#x20B9;</span>580</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/Oxolloxo-Women-Skirts_2d837272dc18c9b4f2c7e5874df24aa0_images_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/skirts/oxolloxo/oxolloxo-blue-printed-flared-skirt/633003/buy?src=search&uq=&q=women-shorts-skirts&p=153" target="_blank">
+				<h4 class="heavy remove-bottom">A-Line</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1395</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/image/style/properties/567850/Anouk-Black--White-Printed-Maxi-Skirt_1_db5cd5f7f36d80e7529cb5fb83e4243f_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/skirts/anouk/anouk-black--white-printed-maxi-skirt/567850/buy?src=search&uq=&q=women-shorts-skirts&p=410" target="_blank">
+				<h4 class="heavy remove-bottom">Panelled Skirt</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1199</p>
+			</a>
+		</div>
+	</li>
+	
+</ul>

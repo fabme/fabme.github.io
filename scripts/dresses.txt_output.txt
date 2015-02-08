@@ -1,0 +1,147 @@
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://static12.jassets.com/p/The-Vanca-Green-Embroidered-Skater-Dress-2619-037175-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/the-vanca-Green-Embroidered-Skater-Dress-571730.html?pos=637" target="_blank">
+				<h4 class="heavy remove-bottom">Fit & Flare</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1199</p>
+				<p>DIS <span class="WebRupee">&#x20B9;</span>839</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static14.jassets.com/p/Yepme-Sleeve-Less-Printed-Blue-Dress-9980-000681-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/Yepme-Sleeve-Less-Printed-Blue-Dress-186000.html?pos=34" target="_blank">
+				<h4 class="heavy remove-bottom">A Line</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1999</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static14.jassets.com/p/Harpa-Solid-Pink-Dress-8092-113337-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/harpa-Solid-Pink-Dress-733311.html?pos=1335" target="_blank">
+				<h4 class="heavy remove-bottom">Fit & Flare</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1299</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static11.jassets.com/p/Athena-Red-Printed-Dress-0432-754674-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/athena-Red-Printed-Dress-476457.html?pos=344" target="_blank">
+				<h4 class="heavy remove-bottom">Asymmetrical Cut</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1295</p>
+				<p>DIS <span class="WebRupee">&#x20B9;</span>907</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://static14.jassets.com/p/Only-Pink-Solid-Dress-4102-307829-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/only-Pink-Solid-Dress-928703.html?pos=2243" target="_blank">
+				<h4 class="heavy remove-bottom">A-Line</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1348</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://staticjcdn.jabong.com/p/Mayra-Red-Solid-Dress-6654-391535-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/mayra-Red-Solid-Dress-535193.html?pos=1" target="_blank">
+				<h4 class="heavy remove-bottom">Top-Knot</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>2097</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/Sweet-Lemon-Sea-Green---Black-Printed-Fit---Flare-Dress_52e31339aea414956264308882838fb2_images_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/dresses/sweet-lemon/sweet-lemon-sea-green--black-printed-fit--flare-dress/543827/buy?src=search&uq=&q=women-dresses&p=353" target="_blank">
+				<h4 class="heavy remove-bottom">Fit & Flare</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>979</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/Sugar-Her-Women-Dresses_2ddab040cb8b8bb5210be852c36f5ed6_images_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/dresses/sugar-her/sugar-her-black--pink-fit--flare-dress/589536/buy?src=search&uq=&q=women-dresses&p=99" target="_blank">
+				<h4 class="heavy remove-bottom">One-Shoulder</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1329</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/Iti-Women-Dresses_42f0496aaa72561e0989321898a64203_images_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/dresses/iti/iti-black-fit--flare-dress/496362/buy?src=search&uq=&q=women-dresses&p=21" target="_blank">
+				<h4 class="heavy remove-bottom">Fit & Flare</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1499</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/D-S-Women-Dresses_a9adc604eae9795fea40f4ffff16b121_images_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/dresses/ds/ds-red-maxi-dress/518621/buy?src=search&uq=&q=women-dresses&p=85" target="_blank">
+				<h4 class="heavy remove-bottom">Maxi</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1199</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/Taurus-Women-Dresses_93f1c0353e680915fe47aab4b79f5c72_images_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/dresses/taurus/taurus-black-fit--flare-dress/539318/buy?src=search&uq=&q=women-dresses&p=19" target="_blank">
+				<h4 class="heavy remove-bottom">Empire Cut</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1356</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://ecx.images-amazon.com/images/I/4178LUBhpmL._SY445_.jpg" alt="" />
+		<div>
+			<a href="http://www.amazon.in/Avirate-Womens-Cocktail-Dress-AVDR100570_Multi-Colored_10/dp/B00QKHVZZG/ref=sr_1_180?s=apparel&ie=UTF8&qid=1422948188&sr=1-180" target="_blank">
+				<h4 class="heavy remove-bottom">Embellished Neckline</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>3600</p>
+				<p>DIS <span class="WebRupee">&#x20B9;</span>1440</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://img5a.flixcart.com/image/dress/x/g/6/1023644-liebemode-xs-400x400-imae2ehttgfnxkdx.jpeg" alt="" />
+		<div>
+			<a href="http://www.flipkart.com/liebemode-women-s-maxi-dress/p/itme2fpj7wngn3wh?pid=DREE2FPJZUAPSXG6&srno=b_7&ref=8b751efa-942b-4e32-a674-dcb4ddb4b006" target="_blank">
+				<h4 class="heavy remove-bottom">Maxi</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>2,800</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://img5a.flixcart.com/image/dress/h/g/b/ea516-eavan-s-400x400-imaeyzcpzkanhwdm.jpeg" alt="" />
+		<div>
+			<a href="http://www.flipkart.com/eavan-women-s-shift-dress/p/itmeyhryygetdckw?pid=DREEYHRYBQU4MW4G&srno=b_11&ref=2827fdf4-0959-47ba-9caa-199f1e9913a5" target="_blank">
+				<h4 class="heavy remove-bottom">Fit & Flare</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1,599</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://img6a.flixcart.com/image/dress/n/h/y/nt32d2014br-nautica-8-400x400-imadwhc94fkthzqg.jpeg" alt="" />
+		<div>
+			<a href="http://www.flipkart.com/nautica-women-s-a-line-dress/p/itmdvunjzzy5wgns?pid=DREDVUNHURGTRRZY&srno=b_62&ref=d150ba78-8c66-424d-80a0-118c090d8367" target="_blank">
+				<h4 class="heavy remove-bottom">A-Line</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>4,999</p>
+			</a>
+		</div>
+	</li>
+	
+</ul>

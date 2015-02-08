@@ -1,0 +1,224 @@
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://static13.jassets.com/p/Mango-Dark-Blue-Jeans-8758-048096-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/mango-Dark-Blue-Jeans-690840.html?pos=209" target="_blank">
+				<h4 class="heavy remove-bottom">Slimmer Boyfriend Jeans</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>2790</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static14.jassets.com/p/Calvin-Klein-Jeans-Blue-Jeans-7027-594229-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/Calvin-Klein-Jeans-Blue-Jeans-922495.html?pos=263" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>4000</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static11.jassets.com/p/Guess-Purple-Jeans-5442-575678-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/Guess-Purple-Jeans-876575.html?pos=0" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>3899</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static14.jassets.com/p/Only-Blue-Jeans-4139-929809-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/only-Blue-Jeans-908929.html?pos=272" target="_blank">
+				<h4 class="heavy remove-bottom">Flared</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1349</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://static13.jassets.com/p/s.Oliver-Blue-Denim-Jeans-6848-517108-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/S.Oliver-Blue-Denim-Jeans-801715.html?pos=310" target="_blank">
+				<h4 class="heavy remove-bottom">Flared</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>2133</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static12.jassets.com/p/Only-Blue-Jeans-8533-098027-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/only-Blue-Jeans-720890.html?pos=312" target="_blank">
+				<h4 class="heavy remove-bottom">Relaxed Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>2217</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static14.jassets.com/p/Calvin-Klein-Jeans-Blue-Jeans-0674-184229-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/Calvin-Klein-Jeans-Blue-Jeans-922481.html?pos=269" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>3000</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static13.jassets.com/p/s.Oliver-Blue-Denim-Jeans-1644-381208-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/S.Oliver-Blue-Denim-Jeans-802183.html?pos=175" target="_blank">
+				<h4 class="heavy remove-bottom">Bootcut</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1200</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://staticjcdn.jabong.com/p/Nautica-Blue-Solid-Jeans-2991-919527-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/Nautica-Blue-Solid-Jeans-725919.html?pos=136" target="_blank">
+				<h4 class="heavy remove-bottom">Flared</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>3999</p>
+				<p>DIS <span class="WebRupee">&#x20B9;</span>3199</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static13.jassets.com/p/s.Oliver-Blue-Denim-Jeans-0719-717108-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/S.Oliver-Blue-Denim-Jeans-801717.html?pos=37" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1950</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static14.jassets.com/p/Yepme-Light-Blue-Solid-Jeans-7849-181657-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/Yepme-Light-Blue-Solid-Jeans-756181.html?pos=114" target="_blank">
+				<h4 class="heavy remove-bottom">Relaxed Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1399</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static13.jassets.com/p/Cherokee-Casual-Black-Jeans-5941-634284-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/cherokee-Casual-Black-Jeans-482436.html?pos=13" target="_blank">
+				<h4 class="heavy remove-bottom">Flared</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1399</p>
+				<p>DIS <span class="WebRupee">&#x20B9;</span>1119</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://static11.jassets.com/p/Guess-Multi--Jeans-3990-510778-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/Guess-Multi-Jeans-877015.html?pos=170" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>3599</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static11.jassets.com/p/Guess-Blue-Jeans-4833-785678-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/Guess-Blue-Jeans-876587.html?pos=360" target="_blank">
+				<h4 class="heavy remove-bottom">Bootcut</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>4197</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://static14.jassets.com/p/Jealous-21-Blue-Jeans-0972-613037-1-product2.jpg" alt="" />
+		<div>
+			<a href="http://www.jabong.com/Jealous-21-Blue-Jeans-730316.html?pos=367" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1329</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/Mineral-Women-Blue---Grey-Printed-Straight-Fit-Jeans_41362c2cf5d689035f3438370f4ba478_images_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/jeans/mineral/mineral-women-blue--grey-printed-straight-fit-jeans/493583/buy?src=search&uq=&q=womens-jeans-jeggings&p=16" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>759</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/image/style/properties/613010/Puma-Women-Navy-Straight-Fit-Jeans_1_9ade963921a5778ca8e8907ce60d3fe0_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/jeans/puma/puma-women-navy-straight-fit-jeans/613010/buy?src=search&uq=&q=womens-jeans-jeggings&p=17" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>2499</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/ONLY-Women-Jeans_1aedfc4abb08009495108173973054c8_images_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/jeans/only/only-women-black-boot-cut-jeans/500553/buy?src=search&uq=&q=womens-jeans-jeggings&p=11" target="_blank">
+				<h4 class="heavy remove-bottom">Flared</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1347</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/image/style/properties/540746/Tommy-Hilfiger-Women-Jeans_1_924e4c9589e21c6740c21aa5688fbf28_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/jeans/tommy-hilfiger/tommy-hilfiger-women-blue-carrie-tapered-fit-boyfriend-jeans/540746/buy?src=search&uq=&q=womens-jeans-jeggings&p=1" target="_blank">
+				<h4 class="heavy remove-bottom">Relaxed Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>6399</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://img6a.flixcart.com/image/jean/y/6/q/fwjn0357green-olive-flying-machine-30-400x400-imae3gkfnwjgtzgz.jpeg" alt="" />
+		<div>
+			<a href="http://www.flipkart.com/flying-machine-regular-fit-women-s-jeans/p/itmey9s4fvtpbzse?pid=JEAEY9RZRHFNVMDZ&srno=b_5&ref=077f13c8-3210-42e7-b07a-ba70019779a9" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1,799</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://img6a.flixcart.com/image/jean/2/y/u/s-499-blue-species-3xl-400x400-imaefhdk8zzhzbrz.jpeg" alt="" />
+		<div>
+			<a href="http://www.flipkart.com/species-regular-fit-women-s-jeans/p/itmefmsc7hshzcvz?pid=JEAEFMSCFKTMPCJH&otracker=from-search&srno=t_49&query=jeans&ref=35b7d4c6-ab94-4f0e-acda-ac85126b6f21" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1,599</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://ecx.images-amazon.com/images/I/31iSssAVBOL._SX342_.jpg" alt="" />
+		<div>
+			<a href="http://www.amazon.in/DKNY-Women-Blue-Jeans-H1D008AW-/dp/B00RN2P8QY/ref=sr_1_1?s=apparel&ie=UTF8&qid=1423381014&sr=1-1" target="_blank">
+				<h4 class="heavy remove-bottom">Boot Cut</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>7400</p>
+				<p>DIS <span class="WebRupee">&#x20B9;</span>2960</p>
+			</a>
+		</div>
+	</li>
+	<li class="web-design illusration">
+		<img src="http://ecx.images-amazon.com/images/I/41Ml31oi8vL._SX342_.jpg" alt="" />
+		<div>
+			<a href="http://www.amazon.in/PEPE-JEANS-DEEP-STR-Women-Jeans/dp/B00RV6J778/ref=sr_1_5?s=apparel&ie=UTF8&qid=1423381030&sr=1-5" target="_blank">
+				<h4 class="heavy remove-bottom">Straight Fit</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1799</p>
+				<p>DIS <span class="WebRupee">&#x20B9;</span>1349.25</p>
+			</a>
+		</div>
+	</li>
+	
+</ul>
