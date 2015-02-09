@@ -22,7 +22,7 @@
 /*-----------------------------------------------------------------------------------*/
 
 body {
-	font-family: 'Helvetica', 'Helvetica Neue', 'Arial', sans-serif; font-size: 14px; line-height: 24px; letter-spacing: 0.08em; color: #444; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; overflow-y: hidden;
+	font-family: 'Helvetica', 'Helvetica Neue', 'Arial', sans-serif; font-size: 14px; line-height: 24px; letter-spacing: 0.08em; color: #444; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, h4, h5, h6, nav a, .widget h6, .filters li a, blockquote, p[data-pullquote]:before, input[type="submit"] {
@@ -916,6 +916,10 @@ dl.accordion dt.active a {
 	ul.grid li, ul.grid.blog li, .grid.cloths li {
 		width: 100%;
 	}
+
+	ul.grid.portfolio li {
+		width: 49.5%;
+	}	
 }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
