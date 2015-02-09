@@ -4,7 +4,7 @@
 		<div>
 			<a href="http://www.jabong.com/faballey-Blue-Solid-Top-1007955.html?pos=153" target="_blank">
 				<h4 class="heavy remove-bottom">Top</h4>
-				<p>MRP <span class="WebRupee">&#x20B9;</span>825</p>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1100</p>
 			</a>
 		</div>
 	</li>
@@ -42,7 +42,7 @@
 		<div>
 			<a href="http://www.jabong.com/harpa-Blue-Solid-Top-684903.html?pos=433" target="_blank">
 				<h4 class="heavy remove-bottom">Bright Color</h4>
-				<p>MRP <span class="WebRupee">&#x20B9;</span>999</p>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>799</p>
 			</a>
 		</div>
 	</li>
@@ -89,7 +89,7 @@
 		<div>
 			<a href="http://www.jabong.com/raindrops-Blue-Solid-Top-812695.html?pos=150" target="_blank">
 				<h4 class="heavy remove-bottom">Big Collar</h4>
-				<p>MRP <span class="WebRupee">&#x20B9;</span>1099</p>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>799</p>
 			</a>
 		</div>
 	</li>
@@ -108,21 +108,12 @@
 			<a href="http://www.jabong.com/palette-Solid-Aqua-Blue-Top-758779.html?pos=1170" target="_blank">
 				<h4 class="heavy remove-bottom">Embellished Neck</h4>
 				<p>MRP <span class="WebRupee">&#x20B9;</span>799</p>
-				<p>DIS <span class="WebRupee">&#x20B9;</span>559</p>
+				<p>DIS <span class="WebRupee">&#x20B9;</span>599</p>
 			</a>
 		</div>
 	</li>
 </ul>
 <ul class="grid portfolio">
-	<li class="web-design illusration">
-		<img src="http://static11.jassets.com/p/Ozel-Embellished-Blue-Top-4368-925678-1-product2.jpg" alt="" />
-		<div>
-			<a href="http://www.jabong.com/ozel-Embellished-Blue-Top-876529.html?pos=1445" target="_blank">
-				<h4 class="heavy remove-bottom">Embellished Top</h4>
-				<p>MRP <span class="WebRupee">&#x20B9;</span>968</p>
-			</a>
-		</div>
-	</li>
 	<li class="web-design illusration">
 		<img src="http://static14.jassets.com/p/Vero-Moda-Pink-Short-Sleeve-Top-4817-222137-1-product2.jpg" alt="" />
 		<div>
@@ -137,7 +128,7 @@
 		<div>
 			<a href="http://www.jabong.com/harpa-Pink-Solid-Top-670221.html?pos=42" target="_blank">
 				<h4 class="heavy remove-bottom">Top</h4>
-				<p>MRP <span class="WebRupee">&#x20B9;</span>999</p>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>799</p>
 			</a>
 		</div>
 	</li>
@@ -150,8 +141,6 @@
 			</a>
 		</div>
 	</li>
-</ul>
-<ul class="grid portfolio">
 	<li class="web-design illusration">
 		<img src="http://static14.jassets.com/p/Dorothy-Perkins-Black-Floral-Burnout-Shell-Top-4639-508309-1-product2.jpg" alt="" />
 		<div>
@@ -161,6 +150,8 @@
 			</a>
 		</div>
 	</li>
+</ul>
+<ul class="grid portfolio">
 	<li class="web-design illusration">
 		<img src="http://static14.jassets.com/p/Silk-Weavers-Short-Sleeve-Solid-Maroon-Top-9566-531953-1-product2.jpg" alt="" />
 		<div>
@@ -175,7 +166,7 @@
 		<div>
 			<a href="http://www.jabong.com/harpa-Sleeve-Less-Orange-Top-557563.html?pos=276" target="_blank">
 				<h4 class="heavy remove-bottom">Bright Color</h4>
-				<p>MRP <span class="WebRupee">&#x20B9;</span>899</p>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>719</p>
 			</a>
 		</div>
 	</li>
@@ -185,11 +176,10 @@
 			<a href="http://www.jabong.com/miaminx-Black-Top-1034155.html?pos=511" target="_blank">
 				<h4 class="heavy remove-bottom">Bold Print</h4>
 				<p>MRP <span class="WebRupee">&#x20B9;</span>699</p>
+				<p>DIS <span class="WebRupee">&#x20B9;</span>524</p>
 			</a>
 		</div>
 	</li>
-</ul>
-<ul class="grid portfolio">
 	<li class="web-design illusration">
 		<img src="http://staticjcdn.jabong.com/p/Wills-Lifestyle-Orange-32F4th-Sleeve-Top-9136-632847-1-product2.jpg" alt="" />
 		<div>
@@ -199,6 +189,8 @@
 			</a>
 		</div>
 	</li>
+</ul>
+<ul class="grid portfolio">
 	<li class="web-design illusration">
 		<img src="http://static12.jassets.com/p/Tokyo-Talkies-Pink-Embellished-Top-6641-309259-1-product2.jpg" alt="" />
 		<div>
@@ -226,8 +218,6 @@
 			</a>
 		</div>
 	</li>
-</ul>
-<ul class="grid portfolio">
 	<li class="web-design illusration">
 		<img src="http://img6a.flixcart.com/image/top/e/y/5/ad0509bl0001-oxolloxo-xl-400x400-imae3jg2cgqabp9p.jpeg" alt="" />
 		<div>
@@ -237,12 +227,14 @@
 			</a>
 		</div>
 	</li>
+</ul>
+<ul class="grid portfolio">
 	<li class="web-design illusration">
 		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/FabAlley-Women-Tops_eab24f3eacdd6079ecca18b218274f58_images_mini.jpg" alt="" />
 		<div>
 			<a href="http://www.myntra.com/tops/faballey/faballey-women-navy-floral-print-jersey-top/448101/buy?src=search&uq=true&q=floral-tops&p=3" target="_blank">
 				<h4 class="heavy remove-bottom">Square Neckline</h4>
-				<p>MRP <span class="WebRupee">&#x20B9;</span>630</p>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>900</p>
 			</a>
 		</div>
 	</li>
@@ -251,7 +243,7 @@
 		<div>
 			<a href="http://www.myntra.com/tops/faballey/faballey-women-white-floral-printed-top/559756/buy?src=search&uq=true&q=floral-tops&p=11" target="_blank">
 				<h4 class="heavy remove-bottom">Top</h4>
-				<p>MRP <span class="WebRupee">&#x20B9;</span>630</p>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>900</p>
 			</a>
 		</div>
 	</li>
@@ -260,8 +252,29 @@
 		<div>
 			<a href="http://www.myntra.com/tops/glam-and-luxe/glam-and-luxe-women-purple-printed-top/585435/buy?src=pp&prt=myntrarecos&psid=168705&prs=168706%2C585435%2C268468%2C585434%2C546233%2C476097%2C585426%2C268467%2C481649%2C457917%2C492663%2C481654%2C481655%2C171834%2C262110&rc=similar&rd=sd" target="_blank">
 				<h4 class="heavy remove-bottom">Bold Print</h4>
-				<p>MRP <span class="WebRupee">&#x20B9;</span>539</p>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>959</p>
 			</a>
 		</div>
 	</li>
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/Vero-Moda-Women-Tops_5e14dfa16733e4d9d4472bd7c62b3470_images_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/tops/vero-moda/vero-moda-marquee-by-karan-johar-women-black-printed-kaleido-top/447199/buy?src=search&uq=true&q=abstract-print-top&p=213" target="_blank">
+				<h4 class="heavy remove-bottom">Bold Print</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>1497</p>
+			</a>
+		</div>
+	</li>
+</ul>
+<ul class="grid portfolio">
+	<li class="web-design illusration">
+		<img src="http://assets.myntassets.com/h_480,q_95,w_360/v1/images/style/properties/Besiva-Women-Tops_25e8fd6571924426af7646b8a9286656_images_mini.jpg" alt="" />
+		<div>
+			<a href="http://www.myntra.com/tops/besiva/besiva-women-red-ruffled-top/470134/buy?src=search&uq=&q=clothing&p=3" target="_blank">
+				<h4 class="heavy remove-bottom">Ruffled Neckline</h4>
+				<p>MRP <span class="WebRupee">&#x20B9;</span>599</p>
+			</a>
+		</div>
+	</li>
+	
 </ul>
